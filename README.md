@@ -6,6 +6,9 @@ Smarty is a template engine for PHP, facilitating the separation of presentation
 ## Documentation
 Read the [documentation](https://smarty-php.github.io/smarty/) to find out how to use it. 
 
+## Use with own autoloader
+Lorem Ipsun
+
 ## Requirements
 Smarty v5 can be run with PHP 7.2 to PHP 8.2.
 
